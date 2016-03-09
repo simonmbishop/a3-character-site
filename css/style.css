@@ -1,0 +1,23 @@
+header {
+	background: url("http://kingsleyassociates.com/wp-content/uploads/2015/02/san-francisco-skyline.jpg");
+	text-align: center;
+	background-size: cover;
+
+}
+
+h1 {
+	font-family: 'Lobster', cursive; 
+	font-size: 100px;
+	color: darksalmon;
+}
+
+img {
+	height: 275px;
+	width: 200px;
+	border: 10px solid white;
+}
+
+a {
+	font-family: 'Bangers', cursive;
+	font-size: 25px;
+}
